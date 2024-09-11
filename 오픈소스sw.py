@@ -1,4 +1,3 @@
-# Auto detect text files and perform LF normalization
 def print_hello():
     print("Hello World!!")
 
